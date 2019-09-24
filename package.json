@@ -1,0 +1,27 @@
+{
+  "name": "eventmanage",
+  "version": "1.0.0",
+  "description": "event manage a test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zohurul88/EventManagement.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Zohurul Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zohurul88/EventManagement/issues"
+  },
+  "homepage": "https://github.com/zohurul88/EventManagement#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  }
+}
